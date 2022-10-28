@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>glitchedbreakfast</name>
+    <directory>glitchedbreakfast</directory>
+    <id>2880250516</id>
+    <description>Hey there kids, are you tired of the game telling you to end your funny 1 fps run, by giving you a bajillion useless breakfasts? Are you irritated by the sheer concept of breakfasting in general?
+Introducing: Glitchfast! These delicious items are a great calorie free substitute to breakfasts.
+No more, will you have to drink anymore of that horrific, spoilt milk. You too, can now take the phrase &quot;gamebreak&quot; literally! Plus, it's also a slight reference to flash isaac, and who doesn't love that?
+
+[h1] Credits [/h1]
+[list]
+[*]Idea - TheSilentGamer
+[*]Coding - Eucalyptus
+[/list]
+    </description>
+    <version>1.2</version>
+    <visibility>Private</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+</metadata>
